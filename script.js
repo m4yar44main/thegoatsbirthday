@@ -1,6 +1,6 @@
 document.getElementById("enterBtn")
 .addEventListener("click", () => {
 
-    window.location.href = "memories.html";
+    alert("NEW SCRIPT IS WORKING");
 
 });
