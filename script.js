@@ -1,6 +1,6 @@
 document.getElementById("enterBtn")
 .addEventListener("click", () => {
 
-  alert("Happy Birthday 💙");
+    window.location.href = "memories.html";
 
 });
